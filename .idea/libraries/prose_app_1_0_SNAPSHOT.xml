@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prose-app-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/prose-app/target/prose-app-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
