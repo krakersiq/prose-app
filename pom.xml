@@ -28,6 +28,12 @@
     </dependency>
 
     <dependency>
+<groupId>org.apache.logging.log4j</groupId>
+<artifactId>log4j-core</artifactId>
+<version>2.14.1</version>
+</dependency>
+
+    <dependency>
   <groupId>de.htw_berlin.fb4.ossd</groupId>
   <artifactId>prose_builder</artifactId>
   <version>1.0-0</version>
